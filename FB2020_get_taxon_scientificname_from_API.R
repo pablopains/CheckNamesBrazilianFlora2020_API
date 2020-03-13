@@ -9,9 +9,7 @@
 # Load packages
 require(stringr)
 require(jsonlite)
-require(lubridate)
 require(plyr)
-require(flora)
 
 # binomialSearch="Ternstroemia cuneifolia"
 # binomialSearch = "Pouteria macrocarpa"
